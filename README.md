@@ -1,3 +1,7 @@
+## List of changes to defunkt/jquery-pjax
+* Adds fragmentUrl property to allow fetching page fragment from different URL than on a:href
+* Accepts plain text responses i.e. fragment can be plain text
+
 ## pushState + ajax = pjax
 
             .--.
